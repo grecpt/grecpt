@@ -1,7 +1,7 @@
 # Welcome to Grecpt! 🚀
 
 ## Who We Are
-**Grecpt** is a software development startup focused on building scalable, enterprise-grade solutions for the financial sector in Papua New Guinea. We are committed to driving digital transformation, sustainability, and innovative technology solutions to help businesses thrive in the digital age.
+**Grecpt** is a software development startup focused on building scalable, enterprise-grade solutions for the private and public sector in Papua New Guinea. We are committed to driving digital transformation, sustainability, and innovative technology solutions to help businesses thrive in the digital age.
 
 At Grecpt, we specialize in **cloud computing**, **DevOps practices**, **software engineering**, and **distributed systems**, with a strong focus on **agile development** and **continuous delivery**.
 
