@@ -44,7 +44,7 @@ Feel free to connect with us for collaboration, consulting, or any inquiries rel
 ## 📢 Follow Our Journey
 Stay updated on our latest projects, initiatives, and technology trends:
 - **GitHub**: [@grecpt](https://github.com/grecpt)
-- **Blog**: [Dev Pollinate](https://substack.com/grecpt) – We share insights on DevOps, cloud computing, and software engineering practices.
+- **Blog**: [Dev Pollinate](https://substack.com/dev-pollinate) – We share insights on DevOps, cloud computing, and software engineering practices.
 
 ## 🏆 Achievements
 - **DevOps Excellence**: Successfully led the automation of core banking system infrastructure at BSP Pacific International Bank.
