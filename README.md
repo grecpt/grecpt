@@ -21,14 +21,8 @@ Our mission is to empower organizations in the financial sector with cutting-edg
 ## 🚀 Our Key Projects
 Here are some of the exciting projects we are working on:
 
-### [VX Design Studio](https://github.com/grecpt/vx-design-studio)
+### [VX Design Studio](#)
 A full-stack web application using Django and React, designed to help businesses create scalable, interactive, and visually appealing digital platforms.
-
-### [Customer Data Platform](https://github.com/grecpt/customer-data-platform)
-A solution for managing and processing customer data, utilizing Azure DevOps for continuous delivery and Terraform for infrastructure automation.
-
-### [Canvas Sketch Showcase](https://github.com/grecpt/canvas-sketch)
-A portfolio showcasing creative projects using React and Three.js, designed for interactive graphics and dynamic visualizations.
 
 ## 🧑‍💻 Meet the Team
 Grecpt is led by a team of passionate engineers and innovators:
