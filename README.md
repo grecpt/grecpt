@@ -27,7 +27,7 @@ A full-stack web application using Django and React, designed to help businesses
 ## 🧑‍💻 Meet the Team
 Grecpt is led by a team of passionate engineers and innovators:
 
-- **Grecpt (Founder & DevOps Engineer)**: Leading DevOps practices, cloud infrastructure, and software engineering.
+- **Rex Makusia (Founder & DevOps Engineer)**: Leading DevOps practices, cloud infrastructure, and software engineering.
 - **Team Members**: We collaborate with a talented group of developers, designers, and tech specialists who are dedicated to delivering high-quality solutions.
 
 ## 🌱 Our Values
